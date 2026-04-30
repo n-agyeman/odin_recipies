@@ -1,0 +1,3 @@
+This is my first odin project
+I am to create a food recipe website
+I do not know the details of what i am to create yet but we'll find out later...
