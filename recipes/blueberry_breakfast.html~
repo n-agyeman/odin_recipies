@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Blueberry Breakfast - Recipe</title>
+</head>
+
+<body>
+  <a href="../index.html">Home</a>
+  <h1>Lasagna</h1>
+  <img src="../images/blueberry_breakfast.webp">
+
+  <h2>Description</h2>
+  <p>This Blueberry Breakfast Cake is an all-time favorite! It’s moist, tender, packed full of juicy, fresh blueberries.
+    It’s perfect on its own, with your morning coffee, as part of brunch, or even as an after-dinner dessert</p>
+
+  <h3>Ingredients</h3>
+  <ul>
+    <li><strong>Butter </strong>- Be sure to soften the butter beforehand so it incorporates easily with the sugar</li>
+    <li><strong>Sugar</strong></li>
+    <li><strong>Eggs</strong></li>
+    <li><strong>Buttermilk</strong>- The key to that deliciously moist texture!</li>
+    <li><strong>All-Purpose Flour</strong></li>
+    <li><strong>Salt</strong></li>
+    <li><strong>Baking Powder</strong></li>
+    <li><strong>Blueberries</strong>-Be sure to use fresh blueberries for this recipe. Frozen will not yield the same
+      results.</li>
+    <li><strong>Streusel Topping</strong>-The Steusel toppin is a simple combination of butter, brown sugar, and flour.
+    </li>
+  </ul>
+
+  <h3>Steps</h3>
+  <ol>
+    <li>
+      <p>In a large bowl, cream together the butter and sugar. Mix in the eggs and vanilla, then stir in the buttermilk
+      </p>
+    </li>
+    <li>
+      <p>To the wet ingredients, add in one cup of flour, salt, and baking powder. Mix together, then add in the rest of
+        the flour. Mix until moistened.</p>
+    </li>
+    <li>
+      <p>Fold in the blueberries. In a separate bowl, make your streusel topping by mixing together softened butter,
+        brown sugar, and flour until crumbly.</p>
+      <p>Add the prepared batter to a greased 2-quart baking dish. Spread evenly, top with prepared streusel, then bake
+        at 350ºF for 35-45 minutes or until a toothpick comes out clean. Cool, then slice, serve, and enjoy!</p>
+    </li>
+  </ol>
+</body>
+
+</html>
